@@ -9,7 +9,6 @@
 
 
 
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fullrecall [
 	<!ELEMENT fullrecall (category?)>
@@ -39,7 +38,7 @@
 		sstick IDREF #IMPLIED
 		hstick IDREF #IMPLIED>
 ]>
-
+<!-- zmiana druga, test gita -->
 <!--
 FullRecall saves both elements.bin (space and speed efficient format)
 and elements.xml (this file contains the same data in human-readable XML format)
