@@ -1,4 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿
+
+
+
+
+<!-- ABY WYSZUKAĆ ELEMENT CTRL-F I WYSZUKAJ NUMER PYTANIA NAJLEPIEJ UMIESZCZAJAC NAWIAS ZA NUMEREM NP. '134)' -->
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fullrecall [
 	<!ELEMENT fullrecall (category?)>
 	<!ELEMENT category (item?)>
